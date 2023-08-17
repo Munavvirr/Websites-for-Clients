@@ -22,7 +22,7 @@ https://balioceansecrets.com/
 https://khobarrugby.com/
 
 7. JA Projects
-https://japrojects.net/ (This web appication is currently down)
+https://japrojects.net/ (This web application is currently down)
 
 8. Miekondre
 http://miekondre.com/ (This site is currently down)
