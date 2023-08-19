@@ -1,8 +1,5 @@
 # Websites-for-Clients
 
-Note:
-As per the company policy where i have worked as a full-stack developer, I won't be able to publish the codes for the following websites mentioned below. 
-
 1. Pineapple Audio Production
 https://www.pineappleaudioproduction.com/
 
